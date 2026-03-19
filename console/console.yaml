@@ -6,6 +6,6 @@ spec:
   managementState: Managed
   customization:
     customLogoFile:
-      key: my-logo.png
+      key: my-logo2.png
       name: console-custom-logo
     customProductName: ACS
